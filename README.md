@@ -1,6 +1,6 @@
 # analisis-de-videojuegos
 
-# Análisis de Ventas de Videojuegos - Tienda Online Ice
+## Análisis de Ventas de Videojuegos - Tienda Online Ice
 Este proyecto se realizó como parte de un análisis para la tienda online Ice, que vende videojuegos a nivel mundial. El objetivo principal fue identificar patrones en las ventas de videojuegos.
 
 ### Descripción del Proyecto
